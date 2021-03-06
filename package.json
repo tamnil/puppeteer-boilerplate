@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-boilerplate",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamnil Saito Jr.",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^2.1.1"
+  },
+  "jest": {
+    "preset": "jest-puppeteer"
+  }
+}
